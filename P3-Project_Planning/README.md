@@ -21,3 +21,5 @@ https://trello.com/b/URh8zgZl/restaurant-review-app
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+https://github.com/prernabadhwar/liftoff-project-restaurant-review-app
